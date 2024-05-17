@@ -16,11 +16,11 @@
   - Race conditions: 👂 heard
   - Dead locks: 🖐️ used
   - Live locks: 👂 heard
-  - Concurrent programming: 👂 heard
-  - Parallel programming: 🎓 known
-  - Actor Model: 🎓 known
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Actor Model: 🖐️ used
   - Thread: 🖐️ used
-  - Process: 🎓 known
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used

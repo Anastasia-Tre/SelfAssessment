@@ -78,15 +78,15 @@
   - serialization: 🙋 explained
   - string parsing: 🙋 explained
 - Process & style
-  - compiler: 🖐️ used
+  - compiler: 🙋 explained
   - transpiler: 🎓 known
   - linter: 🙋 explained
   - polyfill: 🎓 known
   - debugger: 🙋 explained
-  - garbage collection: 🖐️ used
+  - garbage collection: 🙋 explained
   - refactoring: 🙋 explained
   - code review: 🙋 explained
-  - antipatterns: 🖐️ used
+  - antipatterns: 🙋 explained
   - paradigm: 🙋 explained
   - algorithm: 🙋 explained
   - magic numbers: 🙋 explained
