@@ -21,26 +21,26 @@
   - Metaprogramming: 🖐️ used
   - Actor model: 🎓 known
 - OOP basics
-  - constructor: 🙋 explained
-  - new: 🙋 explained
-  - Static method: 🙋 explained
-  - Method: 🙋 explained
-  - Async method: 🙋 explained
-  - Getters, Setters: 🙋 explained
-  - Public fields: 🙋 explained
-  - Private fields: 🙋 explained
-  - Field declarations: 🙋 explained
-  - Inheritance: 🙋 explained
-  - Parent class: 🙋 explained
-  - Polymorphism: 🙋 explained
-  - Abstract class: 🙋 explained
-  - Interface: 🙋 explained
-  - Encapsulation: 🙋 explained
-  - Hidden class: 🙋 explained
-  - Object form: 🙋 explained
-  - instance: 🙋 explained
-  - Introspection: 🙋 explained
-  - Reflection: 🙋 explained
+  - constructor: 🔬 researched
+  - new: 🔬 researched
+  - Static method: 🔬 researched
+  - Method: 🔬 researched
+  - Async method: 🔬 researched
+  - Getters, Setters: 🔬 researched
+  - Public fields: 🔬 researched
+  - Private fields: 🔬 researched
+  - Field declarations: 🔬 researched
+  - Inheritance: 🔬 researched
+  - Parent class: 🔬 researched
+  - Polymorphism: 🔬 researched
+  - Abstract class: 🔬 researched
+  - Interface: 🔬 researched
+  - Encapsulation: 🔬 researched
+  - Hidden class: 🔬 researched
+  - Object form: 🔬 researched
+  - instance: 🔬 researched
+  - Introspection: 🔬 researched
+  - Reflection: 🔬 researched
 - Patterns
   - Singleton: 🙋 explained
   - Factory Method: 🙋 explained
@@ -48,8 +48,8 @@
   - Adapter: 🙋 explained
   - Observer: 🙋 explained
   - Strategy: 🙋 explained
-  - Facade: 🎓 known
-  - Proxy: 🎓 known
+  - Facade: 🙋 explained
+  - Proxy: 🙋 explained
   - Chain of Responsibility: 🙋 explained
   - Command: 🙋 explained
   - Iterator: 🙋 explained
@@ -62,5 +62,5 @@
   - Flyweight: 👂 heard
   - Mediator: 🙋 explained
   - Memento: 👂 heard
-  - Template Method: 🎓 known
+  - Template Method: 🙋 explained
   - Visitor: 🙋 explained
