@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🖐️ used
-  - try..catch: 🖐️ used
-  - Non-blocking: 👂 heard
-  - Async I/O: 🖐️ used
-  - Thread pool: 🖐️ used
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
+  - Event loop: 🙋 explained
+  - try..catch: 🙋 explained
+  - Non-blocking: 🙋 explained
+  - Async I/O: 🙋 explained
+  - Thread pool: 🙋 explained
+  - Pattern Reactor: 🎓 known
+  - CAS operations: 🎓 known
+  - epoll: 🎓 known
+  - kqueue: 🎓 known
+  - Completion ports: 🎓 known
+  - Event ports: 🎓 known
   - libuv
-  - Race conditions: 👂 heard
+  - Race conditions: 🎓 known
   - Dead locks: 🖐️ used
-  - Live locks: 👂 heard
+  - Live locks: 🎓 known
   - Concurrent programming: 🖐️ used
-  - Parallel programming: 🖐️ used
-  - Actor Model: 🖐️ used
-  - Thread: 🖐️ used
-  - Process: 🖐️ used
+  - Parallel programming: 🙋 explained
+  - Actor Model: 🖐️🙋 explained
+  - Thread: 🙋 explained
+  - Process: 🙋 explained
 - Async contracts
-  - Callbacks: 🖐️ used
-  - Callback-last-error-first: 🖐️ used
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🙋 explained
   - Thenable: 🖐️ used
   - Promise: 🖐️ used
-  - Async/await: 🖐️ used
+  - Async/await: 🙋 explained
   - Future: 🖐️ used
   - Deferred: 👂 heard
-  - Sync generator: 👂 heard
-  - Async Generator: 👂 heard
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
   - Async Iterator: 🖐️ used
-  - Event: 🖐️ used
+  - Event: 🙋 explained
   - Coroutine: 👂 heard
   - Goroutine: 👂 heard
   - Signal: 👂 heard
   - Stream: 👂 heard
-  - Chain of responsibility: 🖐️ used
-  - Middleware: 👂 heard
-  - Locks: 👂 heard
+  - Chain of responsibility: 🙋 explained
+  - Middleware: 🙋 explained
+  - Locks: 🙋 explained
 - Async adapters and utils
   - callbackify
   - promisify: 🖐️ used

@@ -1,34 +1,34 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🙋 explained
-  - identifier: 🙋 explained
-  - variable: 🙋 explained
-  - constant: 🙋 explained
-  - scalar: 🙋 explained
-  - literal: 🙋 explained
-  - expression: 🙋 explained
-  - heap: 🙋 explained
-  - function: 🙋 explained
-  - procedure: 🙋 explained
-  - method: 🙋 explained
-  - class: 🙋 explained
-  - prototype: 🙋 explained
-  - event: 🙋 explained
-  - type: 🙋 explained
-  - primitive types: 🙋 explained
-  - reference types: 🙋 explained
-  - flag: 🙋 explained
-  - lexical scope: 🙋 explained
-  - code block: 🙋 explained
-  - conditions: 🙋 explained
-  - loops: 🙋 explained
-  - assignment: 🙋 explained
-  - regular expression: 🙋 explained
-  - interface: 🙋 explained
-  - contract: 🖐️ used
-  - module: 🙋 explained
-  - call stack: 🙋 explained
+  - value: 🔬 researched
+  - identifier: 🔬 researched
+  - variable: 🔬 researched
+  - constant: 🔬 researched
+  - scalar: 🔬 researched
+  - literal: 🔬 researched
+  - expression: 🔬 researched
+  - heap: 🔬 researched
+  - function: 🔬 researched
+  - procedure: 🔬 researched
+  - method: 🔬 researched
+  - class: 🔬 researched
+  - prototype: 🔬 researched
+  - event: 🔬 researched
+  - type: 🔬 researched
+  - primitive types: 🔬 researched
+  - reference types: 🔬 researched
+  - flag: 🔬 researched
+  - lexical scope: 🔬 researched
+  - code block: 🔬 researched
+  - conditions: 🔬 researched
+  - loops: 🔬 researched
+  - assignment: 🔬 researched
+  - regular expression: 🔬 researched
+  - interface: 🔬 researched
+  - contract: 🔬 researched
+  - module: 🔬 researched
+  - call stack: 🔬 researched
 - Functions
   - signature: 🙋 explained
   - argument: 🙋 explained
@@ -37,21 +37,21 @@
   - lambda expression: 🙋 explained
   - side effects: 👂 heard
   - closure: 🙋 explained
-  - partial application
-  - curry: 👂 heard
-  - higher order: 👂 heard
+  - partial application: 🎓 known
+  - curry: 🎓 known
+  - higher order: 🎓 known
   - recursion: 🙋 explained
   - callback: 🙋 explained
   - listener: 🙋 explained
   - compose: 🖐️ used
-  - pipe: 👂 heard
+  - pipe: 🎓 known
   - memoize: 🖐️ used
   - wrapper: 🖐️ used
-  - functor: 👂 heard
-  - monad: 👂 heard
-  - monoid: 👂 heard
+  - functor: 🎓 known
+  - monad: 🎓 known
+  - monoid: 🎓 known
   - generator: 🎓 known
-  - coroutine: 👂 heard
+  - coroutine: 🎓 known
 - Data structures
   - array: 🙋 explained
   - structure: 🙋 explained
@@ -73,8 +73,8 @@
   - tree: 🙋 explained
   - graph: 🙋 explained
   - iterator: 🖐️ used
-  - mutable state: 👂 heard
-  - immutable state: 👂 heard
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
   - serialization: 🙋 explained
   - string parsing: 🙋 explained
 - Process & style
@@ -95,12 +95,12 @@
   - decomposition: 🙋 explained
   - spaghetti: 🙋 explained
   - silver bullet: 🎓 known
-  - not invented here: 👂 heard
+  - not invented here: 🎓 known
   - dead code: 🙋 explained
   - unreachable code: 🙋 explained
   - duplicate code: 🙋 explained
   - exception: 🙋 explained
-  - return early: 👂 heard
+  - return early: 🎓 known
   - unittest: 🙋 explained
   - git: 🙋 explained
   - github: 🙋 explained
